@@ -192,11 +192,6 @@ nginx | 1.10 | http://nginx.org/en/download.html
 - [Kubernetes权威指南](https://book.douban.com/subject/26902153/)
 - [Pro Git](https://git-scm.com/book/zh/v2)
 
-## 公众号
-
-mall项目全套学习教程连载中，**关注公众号**第一时间获取。
-
-![公众号图片](http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/banner/qrcode_for_macrozheng_258.jpg)
 
 ## 许可证
 
